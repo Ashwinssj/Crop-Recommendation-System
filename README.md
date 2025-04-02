@@ -46,7 +46,9 @@ The system can recommend various crops including:
 ## Setup Instructions
 
 1. Install Python requirements:
-```bash
+
+```
+bash
 pip install -r requirements.txt
 '''
 
