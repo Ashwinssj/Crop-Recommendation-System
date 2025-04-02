@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 from main import load_data, preprocess_data, train_model
 import numpy as np
+import os
 
 app = Flask(__name__)
 
